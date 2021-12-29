@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1585010028 source:f:\_seregino\work\projects\deleter\deleter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1585964491 source:d:\work\projects\deleter\deleter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1591408116 source:d:\work\projects\deleter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<stddef.h>
+	<Wincrypt.h>
+
